@@ -1,6 +1,6 @@
 # flutter_ui_practice_app
 
-A new Flutter application.
+This is only the front-end part of a grocery app. Inspiration was taken from Dribbble.
 
 ## Getting Started
 
